@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+<Router basename="/bazi-school">
       <div className="container">
         <Routes>
           {/* 定义两个页面的路径 */}
