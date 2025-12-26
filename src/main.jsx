@@ -7,7 +7,5 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
   </StrictMode>,
-  <BrowserRouter basename="/bazi-school">  {/* <--- 加上这一句 */}
-  <App />
-</BrowserRouter>
+
 )
